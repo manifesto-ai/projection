@@ -1,0 +1,22 @@
+{
+  "name": "@manifesto-ai/projection",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Projection packages for Manifesto AI - transforms Domain Models and Snapshots into consumer-friendly representations",
+  "packageManager": "pnpm@9.15.0",
+  "scripts": {
+    "build": "turbo build",
+    "test": "turbo test",
+    "test:watch": "turbo test:watch",
+    "lint": "turbo lint",
+    "typecheck": "turbo typecheck",
+    "clean": "turbo clean"
+  },
+  "devDependencies": {
+    "turbo": "^2.3.3",
+    "typescript": "^5.7.2"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
