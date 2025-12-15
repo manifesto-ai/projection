@@ -1,6 +1,6 @@
 {
   "name": "@manifesto-ai/projection-agent",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Agent Projection layer for Manifesto AI - creates AI-readable domain context",
   "type": "module",
   "main": "./dist/index.js",
